@@ -1,0 +1,2 @@
+"What type of pipeline we really need to create?"
+"In this project we will be using to types of pipeline, one is traning pipeline and another is prediction pipeline"
